@@ -1,0 +1,3 @@
+DROP TABLE Clients
+DROP TABLE Trips
+DROP TABLE Routes

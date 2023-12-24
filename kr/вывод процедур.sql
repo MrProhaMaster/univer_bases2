@@ -1,0 +1,3 @@
+EXEC CalculateTotalRevenue
+EXEC CalculateAverageDaysPerCountry
+EXEC FindMostExpensiveClientTrip

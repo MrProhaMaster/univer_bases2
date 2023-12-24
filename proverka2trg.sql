@@ -1,0 +1,2 @@
+   INSERT INTO Contracty (ID_CONT, ID_STUD, DTE, ID_CRS)
+   VALUES (17, 16, '24.12.2023', 15);

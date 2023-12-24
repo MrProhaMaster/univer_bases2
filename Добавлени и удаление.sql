@@ -1,3 +1,4 @@
+
 update STUDENT set SX='Ж' where ID_STUD=5;
 update TEACHER set SAL=250 where SURNAMETCH='Исаева';
 SELECT *
